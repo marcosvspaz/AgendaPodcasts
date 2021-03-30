@@ -73,9 +73,7 @@ display: inline-block;
 text-align: center;
 `
 
-
-
-export const AgendaPodcasts = styled.div`
+export const ImageLogo = styled.div`
 transition: opacity .3s ease-in-out;
     color: #fff;
     font-weight: 700;
@@ -86,6 +84,21 @@ transition: opacity .3s ease-in-out;
     text-align: center;
     font-family: neuzeit grotesk bold,sans-serif;
 @media(max-width: 654px) {
-    padding: 20px 52px;
+    padding: 20px 20px;
+ }
+`
+
+export const AgendaPodcasts = styled.div`
+transition: opacity .3s ease-in-out;
+    color: #fff;
+    font-weight: 700;
+    font-size: 28px;
+    text-decoration: none;
+    letter-spacing: 2px;
+    padding: 10px 0px;
+    text-align: center;
+    font-family: neuzeit grotesk bold,sans-serif;
+@media(max-width: 654px) {
+    padding: 20px 0px;
  }
 `

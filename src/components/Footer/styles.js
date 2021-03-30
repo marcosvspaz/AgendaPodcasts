@@ -2,7 +2,7 @@ import styled from 'styled-components'
 import { linearGradient } from 'polished'
 
 export const Container = styled.div`
-margin-top: 50px;
+margin-top: 60px;
 border:0;
 width: 100%;
 margin: 0;

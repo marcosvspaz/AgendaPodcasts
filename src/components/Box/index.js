@@ -5,7 +5,6 @@ import Link from 'next/link'
 function Box () {
  return <>
 
-
 <Container>
 <Convidado>
             <CardImg>
