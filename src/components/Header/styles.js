@@ -53,8 +53,8 @@ transition: color .3s ease-in-out;
     font-weight: 300;
     letter-spacing: 1.2px;
     font-size: 12px;
-    padding: 14px 11px;
-
+    padding: 0px 21px;
+ margin-bottom: 10px;
 @media(max-width: 654px) {
     transition: color .3s ease-in-out;
     color: #e2e6e7;

@@ -9,13 +9,14 @@ function Box () {
 <Convidado>
             <CardImg>
      <Image src='/seg.png'
-     alt='froid'
+     alt='Segunda'
      width={200}
      height={200}
      position='absolute'
      objectFit="cover"
      quality={100}
      />
+
             </CardImg>  
          <CardText>
          </CardText>
@@ -24,14 +25,17 @@ function Box () {
 
      <Convidado>
             <CardImg>
-     <Image src='/froid.jpg'
-     alt='froid'
+                   <Link href='https://twitter.com/McNegaodabl' target='_blank'>
+     <Image src='/convidados/mcnegaodabl.jpg'
+
+     alt='MC Negao da bl'
      width={200}
      height={200}
      position='absolute'
      objectFit="cover"
      quality={100}
-     />
+     /></Link>
+     
             </CardImg>  
          <CardText>
          </CardText>
@@ -46,7 +50,7 @@ function Box () {
 <Convidado>
             <CardImg>
      <Image src='/ter.png'
-     alt='froid'
+     alt='terça'
      width={200}
      height={200}
      position='absolute'
@@ -59,14 +63,17 @@ function Box () {
     </Convidado>
     <Convidado>
             <CardImg>
-     <Image src='/froid.jpg'
+            <Link href='http://www.twitter.com/kvshmusic' target='_blank'>
+            <Image src='/convidados/kvsh.png'
+     href='http://www.twitter.com/froidubr'
      alt='froid'
      width={200}
      height={200}
      position='absolute'
      objectFit="cover"
      quality={100}
-     />
+     /></Link>
+     
             </CardImg>  
          <CardText>
          </CardText>
@@ -80,7 +87,7 @@ function Box () {
 <Convidado>
             <CardImg>
      <Image src='/qua.png'
-     alt='froid'
+     alt='quarta'
      width={200}
      height={200}
      position='absolute'
@@ -96,14 +103,17 @@ function Box () {
 
     <Convidado>
             <CardImg>
-     <Image src='/froid.jpg'
+            <Link href='http://www.twitter.com/froidubr' target='_blank'>
+            <Image src='/convidados/froid.jpg'
+     href='http://www.twitter.com/froidubr'
      alt='froid'
      width={200}
      height={200}
      position='absolute'
      objectFit="cover"
      quality={100}
-     />
+     /></Link>
+     
             </CardImg>  
          <CardText>
          </CardText>
@@ -117,7 +127,7 @@ function Box () {
 <Convidado>
             <CardImg>
      <Image src='/qui.png'
-     alt='froid'
+     alt='quinta'
      width={200}
      height={200}
      position='absolute'
@@ -131,14 +141,17 @@ function Box () {
 
     <Convidado>
             <CardImg>
-     <Image src='/froid.jpg'
+            <Link href='http://www.twitter.com/froidubr' target='_blank'>
+            <Image src='/convidados/froid.jpg'
+     href='http://www.twitter.com/froidubr'
      alt='froid'
      width={200}
      height={200}
      position='absolute'
      objectFit="cover"
      quality={100}
-     />
+     /></Link>
+     
             </CardImg>  
          <CardText>
          </CardText>
@@ -154,7 +167,7 @@ function Box () {
 <Convidado>
             <CardImg>
      <Image src='/sex.png'
-     alt='froid'
+     alt='sexta'
      width={200}
      height={200}
      position='absolute'
@@ -170,14 +183,17 @@ function Box () {
     
     <Convidado>
             <CardImg>
-     <Image src='/froid.jpg'
+            <Link href='http://www.twitter.com/froidubr' target='_blank'>
+            <Image src='/convidados/froid.jpg'
+     href='http://www.twitter.com/froidubr'
      alt='froid'
      width={200}
      height={200}
      position='absolute'
      objectFit="cover"
      quality={100}
-     />
+     /></Link>
+     
             </CardImg>  
          <CardText>
          </CardText>
@@ -190,7 +206,7 @@ function Box () {
 <Convidado>
             <CardImg>
      <Image src='/sab.png'
-     alt='froid'
+     alt='sábado'
      width={200}
      height={200}
      position='absolute'
@@ -204,14 +220,17 @@ function Box () {
 
     <Convidado>
             <CardImg>
-     <Image src='/froid.jpg'
+            <Link href='http://www.twitter.com/froidubr' target='_blank'>
+            <Image src='/convidados/froid.jpg'
+     href='http://www.twitter.com/froidubr'
      alt='froid'
      width={200}
      height={200}
      position='absolute'
      objectFit="cover"
      quality={100}
-     />
+     /></Link>
+     
             </CardImg>  
          <CardText>
          </CardText>
@@ -226,7 +245,7 @@ function Box () {
 <Convidado>
             <CardImg>
      <Image src='/dom.png'
-     alt='froid'
+     alt='domingo'
      width={200}
      height={200}
      position='absolute'
@@ -241,14 +260,17 @@ function Box () {
  
     <Convidado>
             <CardImg>
-     <Image src='/froid.jpg'
+            <Link href='http://www.twitter.com/froidubr' target='_blank'>
+            <Image src='/convidados/froid.jpg'
+     href='http://www.twitter.com/froidubr'
      alt='froid'
      width={200}
      height={200}
      position='absolute'
      objectFit="cover"
      quality={100}
-     />
+     /></Link>
+     
             </CardImg>  
          <CardText>
          </CardText>
