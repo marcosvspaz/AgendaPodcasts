@@ -18,16 +18,16 @@ function Header() {
         <AgendaPodcasts>Agenda Podcasts</AgendaPodcasts>
         <MenuContainer>
         <Link href='/'> 
-        <Menu>Podcasts</Menu>
+        <Menu>Agenda</Menu>
         </Link>
         {/* <Link href='/sobre'> 
         <Menu>sobre</Menu>
         </Link> */}
         <Link href='/contato'> 
-        <Menu>Contato</Menu>
+        <Menu>Podcasts</Menu>
         </Link>
         <Link href='/apoiase'> 
-        <Menu>Apoia-se</Menu>
+        <Menu>Cortes</Menu>
         </Link>
 
 </MenuContainer>

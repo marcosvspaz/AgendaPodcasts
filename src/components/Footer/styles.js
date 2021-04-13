@@ -1,8 +1,8 @@
-import styled from 'styled-components'
-import { linearGradient } from 'polished'
+import styled from 'styled-components';
+import { linearGradient } from 'polished';
 
 export const Container = styled.div`
-margin-top: 60px;
+margin-top: 65px;
 border:0;
 width: 100%;
 margin: 0;
@@ -13,23 +13,23 @@ margin: 0;
     color: #212529;
 
 
-height: 100px;
+height: 110px;
 background: #44475a;
 color: white;
 
 text-align: center;
 ${linearGradient({
-colorStops: ['#282a36 0%', 'rgba(0, 0, 255, 0) 0%', '#282a36 150%'],
-toDirection: 'to top',
-fallback: '#44475a',
-})};
-`
+    colorStops: ['#282a36 0%', 'rgba(0, 0, 255, 0) 0%', '#282a36 150%'],
+    toDirection: 'to top',
+    fallback: '#44475a',
+  })};
+`;
 export const P = styled.p`
 
 
-`
+`;
 export const Space = styled.p`
 width: 100%;
 height:60%;
 background: transparent;
-`
+`;
