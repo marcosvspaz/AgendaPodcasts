@@ -1,4 +1,3 @@
-/* eslint-disable react/react-in-jsx-scope */
 import Image from 'next/image';
 import Link from 'next/link';
 import {
@@ -64,7 +63,7 @@ function Box() {
       </Container>
 
       <Container>
-        {/** *****************TERÇA******************** */}
+        {/********************************TERÇA**********************************/}
         <Convidado>
           <CardImg>
             <Image
@@ -99,7 +98,7 @@ function Box() {
         </Convidado>
 
       </Container>
-      {/** *******************QUARTA****************** */}
+      {/********************************QUARTA********************************/}
 
       <Container>
         <Convidado>
@@ -137,7 +136,7 @@ function Box() {
         </Convidado>
 
       </Container>
-      {/** *****************QUINTA******************** */}
+      {/*******************************QUINTA*********************************/}
       <Container>
         <Convidado>
           <CardImg>
@@ -174,7 +173,7 @@ function Box() {
         </Convidado>
 
       </Container>
-      {/** ***************SEXTA********************** */}
+      {/**************************************SEXTA******************************/}
       <Container>
         <Convidado>
           <CardImg>
@@ -210,7 +209,7 @@ function Box() {
         </Convidado>
 
       </Container>
-      {/** ***************SABADO********************** */}
+      {/*****************************SABADO***********************************/}
       <Container>
         <Convidado>
           <CardImg>
@@ -247,7 +246,7 @@ function Box() {
         </Convidado>
 
       </Container>
-      {/** ***************DOM********************** */}
+      {/****************************DOM************************************/}
       <Container>
         <Convidado>
           <CardImg>
@@ -283,7 +282,7 @@ function Box() {
         </Convidado>
 
       </Container>
-      {/** ************************************* */}
+      {/*******************************************************************/}
 
     </>
   );

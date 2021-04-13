@@ -12,7 +12,6 @@ margin: 0;
     line-height: 1.5;
     color: #212529;
 
-
 height: 110px;
 background: #44475a;
 color: white;
@@ -24,8 +23,8 @@ ${linearGradient({
     fallback: '#44475a',
   })};
 `;
-export const P = styled.p`
 
+export const P = styled.p`
 
 `;
 export const Space = styled.p`

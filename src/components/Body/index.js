@@ -1,15 +1,17 @@
-import { Container } from './styles'
-import Box from '../Box'
+import { Container } from './styles';
+import Box from '../Box';
 
-function Body () {
- return <>
-     <Container>
-          <Box> </Box>
-    
-     </Container>
-     
+function Body() {
+  return (
+    <>
+      <Container>
+        
+        <Box> </Box>
 
-     </>
+      </Container>
+
+    </>
+  );
 }
 
-export default Body
+export default Body;
