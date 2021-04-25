@@ -2,7 +2,7 @@ import { Container, AgendaPodcasts,ImageLogo, Menu, MenuContainer, backgroundIma
 import Link from 'next/link'
 import Image from 'next/image'
 
-function Header() {
+function Header({childen}) {
     return <Container>
 <ImageLogo>
 <Image src='/calendario.png'

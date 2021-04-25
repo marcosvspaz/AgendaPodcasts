@@ -1,7 +1,7 @@
 /* eslint-disable react/react-in-jsx-scope */
 import { Container, Space } from './styles';
 
-function Footer() {
+function Footer({childen}) {
   return (
     <Container>
       <Space />

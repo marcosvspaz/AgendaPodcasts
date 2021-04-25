@@ -10,14 +10,17 @@ export const Container = styled.div`
     font-family: poppins light,sans-serif;
     font-size: 12px;
     position: fixed;
-    min-height: 59px;
     text-align: center;
     width: 100%;
     flex-wrap: wrap;
-    z-index: 4;
+    z-index: 1000;
     transition: background-color .3s ease;
     will-change: transform;
+    @media(max-width: 654px) {
+
+ }
 `
+
 
 export const backgroundImage = styled.img`
      content: '';

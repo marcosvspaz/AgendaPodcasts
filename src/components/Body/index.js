@@ -1,7 +1,7 @@
 import { Container } from './styles';
 import Box from '../Box';
 
-function Body() {
+function Body({childen}) {
   return (
     <>
       <Container>
